@@ -44,6 +44,13 @@ public class RollercoasterTest {
         assertEquals(16.80, rollerCoaster.defaultPrice(visitor1), 0.01);
     }
 
+    @Test
+    public void canChargeNormalForHeightLessThan200() {
+        assertEquals(8.40, rollerCoaster.defaultPrice(visitor2), 0.01);
+    }
+
+
+
     //over 145cm tall and over 12 years of age
     @Test
     public void willAllowValidVisitor() {
