@@ -1,8 +1,9 @@
 package attractions;
 
+import behaviours.IReviewed;
 import people.Visitor;
 
-public class RollerCoaster  extends Attraction {
+public class RollerCoaster  extends Attraction implements IReviewed {
 
     public RollerCoaster(String name, int rating) {
 

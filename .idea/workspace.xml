@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6857692-8ac1-4bd0-9bbb-0f152e4ac9cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/attractions/RollercoasterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attractions/RollercoasterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Attraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/Attraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Playground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/Playground.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,86 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/attractions/Attraction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/IReviewed.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/ISecurity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/stalls/TobaccoStallTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="16" selection-start-line="16" selection-end-line="17" selection-end-column="48" />
-              <folding>
-                <element signature="e#992#993#0" expanded="true" />
-                <element signature="e#1063#1064#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/attractions/RollercoasterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="e#946#947#0" expanded="true" />
-                <element signature="e#1010#1011#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/stalls/TobaccoStall.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/attractions/PlaygroundTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="16" column="48" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="48" />
-              <folding>
-                <element signature="e#861#862#0" expanded="true" />
-                <element signature="e#928#929#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -109,11 +31,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/attractions/Playground.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="120">
+              <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/attractions/PlaygroundTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/IReviewed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -129,12 +70,14 @@
         <option value="$PROJECT_DIR$/src/main/java/behaviours/ITicketed.java" />
         <option value="$PROJECT_DIR$/src/main/java/behaviours/IReviewed.java" />
         <option value="$PROJECT_DIR$/src/main/java/behaviours/ISecurity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/attractions/Playground.java" />
         <option value="$PROJECT_DIR$/src/main/java/stalls/TobaccoStall.java" />
         <option value="$PROJECT_DIR$/src/test/java/attractions/PlaygroundTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/stalls/TobaccoStallTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java" />
         <option value="$PROJECT_DIR$/src/test/java/attractions/RollercoasterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" />
+        <option value="$PROJECT_DIR$/src/main/java/attractions/Attraction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/attractions/Playground.java" />
       </list>
     </option>
   </component>
@@ -266,8 +209,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RollercoasterTest.willDenyInValidVisitor">
-    <configuration name="PlaygroundTest.willAllowValidVisitor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RollercoasterTest">
+    <configuration name="DodgemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.DodgemTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.ParkTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaygroundTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemeParkStartPoint" />
       <extension name="coverage">
         <pattern>
@@ -277,29 +250,12 @@
       </extension>
       <option name="PACKAGE_NAME" value="attractions" />
       <option name="MAIN_CLASS_NAME" value="attractions.PlaygroundTest" />
-      <option name="METHOD_NAME" value="willAllowValidVisitor" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlaygroundTest.willDenyValidVisitor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThemeParkStartPoint" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="attractions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="attractions" />
-      <option name="MAIN_CLASS_NAME" value="attractions.PlaygroundTest" />
-      <option name="METHOD_NAME" value="willDenyValidVisitor" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RollercoasterTest.willAllowValidVisitor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RollercoasterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemeParkStartPoint" />
       <extension name="coverage">
         <pattern>
@@ -309,8 +265,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="attractions" />
       <option name="MAIN_CLASS_NAME" value="attractions.RollercoasterTest" />
-      <option name="METHOD_NAME" value="willAllowValidVisitor" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -331,28 +286,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TobaccoStallTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThemeParkStartPoint" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stalls.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="stalls" />
-      <option name="MAIN_CLASS_NAME" value="stalls.TobaccoStallTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RollercoasterTest" />
+        <item itemvalue="JUnit.ParkTest" />
+        <item itemvalue="JUnit.PlaygroundTest" />
+        <item itemvalue="JUnit.DodgemTest" />
         <item itemvalue="JUnit.RollercoasterTest.willDenyInValidVisitor" />
-        <item itemvalue="JUnit.RollercoasterTest.willAllowValidVisitor" />
-        <item itemvalue="JUnit.TobaccoStallTest" />
-        <item itemvalue="JUnit.PlaygroundTest.willDenyValidVisitor" />
-        <item itemvalue="JUnit.PlaygroundTest.willAllowValidVisitor" />
       </list>
     </recent_temporary>
   </component>
@@ -384,6 +324,15 @@
     </history-entry>
     <history-entry file="TobaccoStallTest - 2019.07.30 at 18h 01m 10s.xml">
       <configuration name="TobaccoStallTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RollercoasterTest_willAllowValidVisitor - 2019.07.30 at 18h 08m 41s.xml">
+      <configuration name="RollercoasterTest.willAllowValidVisitor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RollercoasterTest_willAllowValidVisitor - 2019.07.30 at 18h 08m 59s.xml">
+      <configuration name="RollercoasterTest.willAllowValidVisitor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RollercoasterTest_willDenyInValidVisitor - 2019.07.30 at 18h 09m 05s.xml">
+      <configuration name="RollercoasterTest.willDenyInValidVisitor" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -433,13 +382,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/IReviewed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/ITicketed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -447,69 +389,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/attractions/Attraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/people/VisitorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/people/Visitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/ISecurity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/attractions/Playground.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/attractions/PlaygroundTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="16" column="48" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="48" />
-          <folding>
-            <element signature="e#861#862#0" expanded="true" />
-            <element signature="e#928#929#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/stalls/TobaccoStall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -526,12 +409,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/attractions/RollercoasterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="315">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="e#946#947#0" expanded="true" />
             <element signature="e#1010#1011#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/ISecurity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/attractions/Park.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/people/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stalls/TobaccoStall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/attractions/Dodgems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/IReviewed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/attractions/Attraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/attractions/Playground.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/attractions/PlaygroundTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
