@@ -14,8 +14,8 @@ public class RollercoasterTest {
     @Before
     public void setUp() {
 
-        rollerCoaster = new RollerCoaster("Blue Ridge", 10);
-        visitor1 = new Visitor(12, 145, 20.00);
+        rollerCoaster = new RollerCoaster("Blue Ridge", 10, 8.40);
+        visitor1 = new Visitor(12, 210, 20.00);
         visitor2 = new Visitor(11, 124, 20.00);
     }
 
@@ -34,6 +34,15 @@ public class RollercoasterTest {
         assertEquals(0, rollerCoaster.getVisitCount());
     }
 
+    @Test
+    public void hasPrice() {
+        assertEquals(8.40, rollerCoaster.priceForVisitor(visitor1), 0.01);
+    }
+
+    @Test
+    public void canChargeDoubleForHeight200() {
+        assertEquals(16.80, rollerCoaster.defaultPrice(visitor1), 0.01);
+    }
 
     //over 145cm tall and over 12 years of age
     @Test

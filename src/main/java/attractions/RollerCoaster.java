@@ -1,11 +1,12 @@
 package attractions;
 
 import behaviours.IReviewed;
+import behaviours.ITicketed;
 import people.Visitor;
 
-public class RollerCoaster  extends Attraction implements IReviewed {
+public class RollerCoaster  extends Attraction implements IReviewed, ITicketed {
 
-    public RollerCoaster(String name, int rating) {
+    public RollerCoaster(String name, int rating, double price) {
 
         super(name, rating);
     }
@@ -18,5 +19,18 @@ public class RollerCoaster  extends Attraction implements IReviewed {
         else {
             return false;
         }
+    }
+
+    public double defaultPrice(Visitor visitor) {
+        if (visitor.getHeight() >= 200) {
+            return 8.40 * 2;
+        }
+        else {
+            return 8.40;
+        }
+    }
+
+    public double priceForVisitor(Visitor visitor) {
+        return 8.40;
     }
 }
