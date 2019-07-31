@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6857692-8ac1-4bd0-9bbb-0f152e4ac9cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/behaviours/ITicketed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behaviours/ITicketed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/attractions/RollercoasterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attractions/RollercoasterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/attractions/RollerCoaster.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/attractions/RollerCoaster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/behaviours/ITicketed.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/behaviours/ITicketed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/attractions/RollercoasterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/attractions/RollercoasterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/attractions/DodgemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attractions/DodgemTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,10 +20,33 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/ITicketed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/attractions/Dodgems.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="353">
+              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#665#666#0" expanded="true" />
@@ -39,25 +57,29 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/attractions/RollercoasterTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/attractions/DodgemTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="43" column="55" lean-forward="true" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+            <state relative-caret-position="413">
+              <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
               <folding>
-                <element signature="e#803#804#0" expanded="true" />
-                <element signature="e#833#834#0" expanded="true" />
-                <element signature="e#943#944#0" expanded="true" />
-                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#787#788#0" expanded="true" />
+                <element signature="e#859#860#0" expanded="true" />
+                <element signature="e#945#946#0" expanded="true" />
+                <element signature="e#1017#1018#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/ITicketed.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/attractions/RollercoasterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state relative-caret-position="413">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="e#939#940#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,7 +97,6 @@
         <option value="$PROJECT_DIR$/src/test/java/attractions/PlaygroundTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/attractions/Attraction.java" />
         <option value="$PROJECT_DIR$/src/main/java/attractions/Playground.java" />
-        <option value="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" />
         <option value="$PROJECT_DIR$/src/main/java/attractions/Park.java" />
         <option value="$PROJECT_DIR$/src/main/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/stalls/Stall.java" />
@@ -88,6 +109,8 @@
         <option value="$PROJECT_DIR$/src/main/java/behaviours/ITicketed.java" />
         <option value="$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java" />
         <option value="$PROJECT_DIR$/src/test/java/attractions/RollercoasterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" />
+        <option value="$PROJECT_DIR$/src/test/java/attractions/DodgemTest.java" />
       </list>
     </option>
   </component>
@@ -211,8 +234,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RollercoasterTest.canChargeNormalForHeightLessThan200">
-    <configuration name="DodgemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.DodgemTest.canChargeNormalForAgeLessThan12">
+    <configuration name="DodgemTest.canChargeFullPriceForAge12Plus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemeParkStartPoint" />
       <extension name="coverage">
         <pattern>
@@ -222,22 +245,39 @@
       </extension>
       <option name="PACKAGE_NAME" value="attractions" />
       <option name="MAIN_CLASS_NAME" value="attractions.DodgemTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="canChargeFullPriceForAge12Plus" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IceCreamStallTest.hasRating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DodgemTest.canChargeFullPriceForHeight200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemeParkStartPoint" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stalls.*" />
+          <option name="PATTERN" value="attractions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="stalls" />
-      <option name="MAIN_CLASS_NAME" value="stalls.IceCreamStallTest" />
-      <option name="METHOD_NAME" value="hasRating" />
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.DodgemTest" />
+      <option name="METHOD_NAME" value="canChargeFullPriceForHeight200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DodgemTest.canChargeNormalForAgeLessThan12" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.DodgemTest" />
+      <option name="METHOD_NAME" value="canChargeNormalForAgeLessThan12" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -275,29 +315,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RollercoasterTest.hasPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThemeParkStartPoint" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="attractions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="attractions" />
-      <option name="MAIN_CLASS_NAME" value="attractions.RollercoasterTest" />
-      <option name="METHOD_NAME" value="hasPrice" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DodgemTest.canChargeNormalForAgeLessThan12" />
+        <item itemvalue="JUnit.DodgemTest.canChargeFullPriceForAge12Plus" />
+        <item itemvalue="JUnit.DodgemTest.canChargeFullPriceForHeight200" />
         <item itemvalue="JUnit.RollercoasterTest.canChargeNormalForHeightLessThan200" />
         <item itemvalue="JUnit.RollercoasterTest.canChargeDoubleForHeight200" />
-        <item itemvalue="JUnit.RollercoasterTest.hasPrice" />
-        <item itemvalue="JUnit.DodgemTest" />
-        <item itemvalue="JUnit.IceCreamStallTest.hasRating" />
       </list>
     </recent_temporary>
   </component>
@@ -315,21 +339,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IceCreamStallTest_hasRating - 2019.07.31 at 08h 59m 15s.xml">
-      <configuration name="IceCreamStallTest.hasRating" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IceCreamStallTest_hasRating - 2019.07.31 at 08h 59m 32s.xml">
-      <configuration name="IceCreamStallTest.hasRating" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DodgemTest - 2019.07.31 at 09h 00m 15s.xml">
-      <configuration name="DodgemTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RollercoasterTest_hasPrice - 2019.07.31 at 09h 13m 44s.xml">
-      <configuration name="RollercoasterTest.hasPrice" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RollercoasterTest_hasPrice - 2019.07.31 at 09h 14m 49s.xml">
-      <configuration name="RollercoasterTest.hasPrice" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RollercoasterTest_hasPrice - 2019.07.31 at 09h 20m 48s.xml">
       <configuration name="RollercoasterTest.hasPrice" configurationId="JUnit" />
     </history-entry>
@@ -344,6 +353,21 @@
     </history-entry>
     <history-entry file="RollercoasterTest_canChargeDoubleForHeight200 - 2019.07.31 at 09h 35m 13s.xml">
       <configuration name="RollercoasterTest.canChargeDoubleForHeight200" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RollercoasterTest_canChargeNormalForHeightLessThan200 - 2019.07.31 at 09h 37m 25s.xml">
+      <configuration name="RollercoasterTest.canChargeNormalForHeightLessThan200" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DodgemTest_canChargeFullPriceForHeight200 - 2019.07.31 at 09h 56m 06s.xml">
+      <configuration name="DodgemTest.canChargeFullPriceForHeight200" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DodgemTest_canChargeFullPriceForAge12Plus - 2019.07.31 at 09h 57m 23s.xml">
+      <configuration name="DodgemTest.canChargeFullPriceForAge12Plus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DodgemTest_canChargeFullPriceForAge12Plus - 2019.07.31 at 09h 57m 46s.xml">
+      <configuration name="DodgemTest.canChargeFullPriceForAge12Plus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DodgemTest_canChargeFullPriceForAge12Plus - 2019.07.31 at 09h 58m 20s.xml">
+      <configuration name="DodgemTest.canChargeFullPriceForAge12Plus" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -467,13 +491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/attractions/Dodgems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/attractions/ParkTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -573,24 +590,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/attractions/DodgemTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/ITicketed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        <state relative-caret-position="353">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#665#666#0" expanded="true" />
@@ -601,13 +611,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/attractions/RollercoasterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="43" column="55" lean-forward="true" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+        <state relative-caret-position="413">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
           <folding>
-            <element signature="e#803#804#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
             <element signature="e#1018#1019#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/attractions/Dodgems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/attractions/DodgemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+          <folding>
+            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
           </folding>
         </state>
       </provider>
