@@ -12,12 +12,17 @@ public class CandyflossStallTest {
 
     @Before
     public void setUp() throws Exception {
-        candyflossStall = new CandyflossStall("Candy Land", "Harry Belafonte", ParkingSpot.A1);
+        candyflossStall = new CandyflossStall("Candy Land", "Harry Belafonte", ParkingSpot.A1, 10);
     }
 
     @Test
     public void hasName() {
         assertEquals("Candy Land", candyflossStall.getName());
+    }
+
+    @Test
+    public void hasRating() {
+        assertEquals("Candy Land", candyflossStall.getRating());
     }
 
     @Test
